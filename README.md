@@ -36,4 +36,4 @@ Foodies/ ├── index.html ├── style.css ├── script.js ├── 
 👩‍💻 Author
 Usha Assudani Github : @UshaAsuudani 
 Harshita Harwani GitHub: @harshitatech25
-Minal Sharma GitHub : @mianl-sharma92
+Minal Sharma GitHub : @minal-sharma92
